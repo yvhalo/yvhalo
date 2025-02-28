@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yv</h1>
 <h3 align="center">Android developer from Tenerife 🇮🇨</h3>
-<h3 align="center">Living in Barcelona</h3>
+<h4 align="center">Living in Barcelona</h3>
 
 <h4 align="center">I’m currently working on Filmin 🎥 as Android Lead Developer</h4>
 
